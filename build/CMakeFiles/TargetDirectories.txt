@@ -1,0 +1,3 @@
+/Users/austin/c/utf8/build/CMakeFiles/utf8decode.dir
+/Users/austin/c/utf8/build/CMakeFiles/edit_cache.dir
+/Users/austin/c/utf8/build/CMakeFiles/rebuild_cache.dir
